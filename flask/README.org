@@ -25,3 +25,7 @@ The homework will be posted in the #cstopics-hw channel.
 Upload your solutions to the assigned homework in the appropriate
 folder. Make sure to use the filenames specified in the assignments.
 
+[Link to Ms. Wades Flask Site](https://Ms-Wades-Page.awade05.repl.co)
+[Link to Ms. Wades Replit](https://replit.com/@awade05/Ms-Wades-Page)
+
+
