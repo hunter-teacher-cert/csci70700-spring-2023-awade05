@@ -31,7 +31,7 @@ folder. Make sure to use the filenames specified in the assignments.
 
 
 *** Home Work #2
-The form works if you directly go there, but for some reason I am getting a Bad Request error when I go to the page via a link. 
+The form works if you directly go there, but for some reason I am getting a Bad Request error when I go to the page via a link. I did post the code that links directly to the form.
 - [Link to Ms. Wades Flask Site](https://Ms-Wades-Page.awade05.repl.co)
 - [Link to Ms. Wades Replit](https://replit.com/@awade05/Ms-Wades-Page)
 
