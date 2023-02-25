@@ -25,7 +25,17 @@ The homework will be posted in the #cstopics-hw channel.
 Upload your solutions to the assigned homework in the appropriate
 folder. Make sure to use the filenames specified in the assignments.
 
+*** Home Work #1
 - [Link to Ms. Wades Flask Site](https://Ms-Wades-Page.awade05.repl.co/about)
 - [Link to Ms. Wades Replit](https://replit.com/@awade05/Ms-Wades-Page)
+
+
+*** Home Work #2
+The form works if you directly go there, but for some reason I am getting a Bad Request error when I go to the page via a link. 
+- [Link to Ms. Wades Flask Site](https://Ms-Wades-Page.awade05.repl.co)
+- [Link to Ms. Wades Replit](https://replit.com/@awade05/Ms-Wades-Page)
+
+
+
 
 
