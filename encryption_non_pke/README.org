@@ -25,3 +25,11 @@ The homework will be posted in the #cstopics-hw channel.
 Upload your solutions to the assigned homework in the appropriate
 folder. Make sure to use the filenames specified in the assignments.
 
+*** Decoding a message Files using a Caesar Cipher:
+Two examples of the Caesar Cipher. The first just encrypts. The other does encryption an decryption. 
+- [Caesar Example #1](https://replit.com/@awade05/Decode-Using-ShiftCaesar-Cipher#main.py)
+- [Caesar Example #2](https://replit.com/@awade05/Decode-and-Encode-Message#main.py)
+
+*** Encoding a message using Substitution:
+- [Substitution Example](https://replit.com/@awade05/Substitution-Cipher-Code#main.py)
+
