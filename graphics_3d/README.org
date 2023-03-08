@@ -22,6 +22,11 @@ Please use these filenames:
 
 The homework will be posted in the #cstopics-hw channel.
 
+
 Upload your solutions to the assigned homework in the appropriate
 folder. Make sure to use the filenames specified in the assignments.
+
+[Replit Link](https://replit.com/@awade05/Graphics-1)
+
+[WebView](https://Graphics-1.awade05.repl.co)
 
